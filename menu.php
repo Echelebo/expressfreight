@@ -1,14 +1,14 @@
 <!DOCTYPE html>
 <html dir="ltr" lang="en-US">
 
-<!-- Mirrored from demo.zytheme.com/equita/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 15 Feb 2025 14:54:29 GMT -->
+<!-- Mirrored from demo.zytheme.com/equita/home-classic.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 15 Feb 2025 14:53:59 GMT -->
 <head>
     <meta charset="utf-8"/>
     <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
     <meta name="author" content="Ayman Fikry"/>
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
     <meta name="description" content="Multi-purpose Business html5 template"/>
-    <title>Home Main - Equita Logistics Cargo HTML5 Template</title>
+    <title>Home Classic - Equita Logistics Cargo HTML5 Template</title>
     <link href="assets/images/favicon/favicon.png" rel="icon"/>
     <!--  Fonts ==
     -->
@@ -37,8 +37,11 @@
     <!-- Document Wrapper-->
     <div class="wrapper clearfix" id="wrapperParallax">
       <!-- Start .header-1-->
-      <header class="header header-1 header-transparent" id="navbar-spy">
-        <nav class="navbar navbar-expand-lg  navbar-bordered navbar-sticky" id="primary-menu">
+      <header class="header header-1 header-light header-tab" id="navbar-spy">
+        <div class="tab">
+          <p> <span>Need Help : </span>providing Innovative and Sustainable Solutions, Call (002) 01061245741</p>
+        </div>
+        <nav class="navbar navbar-expand-lg navbar-light navbar-sticky" id="primary-menu">
           <div class="container"><a class="navbar-brand" href="index.html"><img class="logo logo-light" src="assets/images/logo/logo-light.png" alt="Equita Logo"/><img class="logo logo-dark" src="assets/images/logo/logo-dark.png" alt="Equita Logo"/></a>
             <button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbarContent" aria-controls="navbarContent" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
             <!--  Collect the nav links, forms, and other content for toggling  -->
@@ -46,9 +49,9 @@
                             <ul class="navbar-nav ml-auto">
                               <li class="nav-item has-dropdown active"><a class="dropdown-toggle" href="#" data-toggle="dropdown"><span>Home</span></a>
                                               <ul class="dropdown-menu">
-                                                <li class="nav-item current"><a href="index.html"><span>Home main</span></a></li>
+                                                <li class="nav-item"><a href="index.html"><span>Home main</span></a></li>
                                                 <li class="nav-item"><a href="home-modern.html"><span>home modern</span></a></li>
-                                                <li class="nav-item"><a href="home-classic.html"><span>home classic</span></a></li>
+                                                <li class="nav-item current"><a href="home-classic.html"><span>home classic</span></a></li>
                                               </ul>
                               </li>
                               <li class="nav-item has-dropdown"><a class="dropdown-toggle" href="#" data-toggle="dropdown"><span>company</span></a>

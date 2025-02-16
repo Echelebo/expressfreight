@@ -1,5 +1,9 @@
-<!-- footer area start -->
-<footer class="footer footer-1">
+<!--
+      ============================
+      Footer #1
+      ============================
+      -->
+      <footer class="footer footer-1">
         <div class="footer-top">
           <div class="container">
             <div class="row">
@@ -106,5 +110,5 @@
     <script src="assets/js/functions.js"></script>
   </body>
 
-<!-- Mirrored from demo.zytheme.com/equita/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 15 Feb 2025 14:54:33 GMT -->
+<!-- Mirrored from demo.zytheme.com/equita/home-classic.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 15 Feb 2025 14:54:20 GMT -->
 </html>
