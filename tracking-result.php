@@ -26,7 +26,7 @@ require_once('dashboard/funciones.php');
 
 $tracking= $_POST['shipping'];
 
-$sql = "SELECT c.cid, c.tracking, c.cons_no, c.letra, c.book_mode, c.schedule, c.paisdestino, c.pick_time, c.pick_time2, c.invice_no, c.mode, c.type, c.weight, c.comments, c.ship_name, c.phone, 
+$sql = "SELECT c.cid, c.tracking, c.cons_no, c.letra, c.book_mode, c.schedule, c.paisdestino, c.pick_time, c.pick_time2, c.invice_no, c.mode, c.type, c.weight, c.comments, c.ship_name, c.phone,
 c.s_add, c.rev_name, c.r_phone, c.r_add, c.pick_date, c.user, s.color, c.status, c.lati, c.lngi FROM courier c, service_mode s WHERE s.servicemode = c.status AND c.tracking = '$tracking'";
 
 $result = dbQuery($sql);
@@ -38,73 +38,6 @@ extract($data);
 
 ?>
 
-<!DOCTYPE html>
-
-<html>
-
-<head>
-    <meta charset="utf-8" />
-    <title>Track My Parcel  | Express Freights</title>
-	<meta name="description" content="Express Freights"/>
-	<meta name="keywords" content="Express Freights" />
-	<meta name="author" content="Express Freights">
-	<!--<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />-->
-
-	<link rel="icon" href="favicon.ico" sizes="20x20" type="image/png">
-
-	<!-- Font Awesome CSS -->
-    <link rel="stylesheet" href="deprixa/asset1/css/font-awesome.min.css" type="text/css" media="screen">
-
-    <!-- style -->
-    <!--<link href="deprixa_components/content/cssefe4.css" rel="stylesheet"/>-->
-	<link rel="stylesheet" href="deprixa/css/tracking.css" type="text/css" />
-    <link href="deprixa_components/styles/track-order.css" rel="stylesheet" />
-	<!--<link href="deprixa/css/style.css" rel="stylesheet" media="all">-->
-
-
-
-		<!--<link href="files/css/master.css" rel="stylesheet">
-
-		<!-- SWITCHER -->
-		<link rel="stylesheet" id="switcher-css" type="text/css" href="files/assets/switcher/css/switcher.css" media="all" />
-		<link rel="alternate stylesheet" type="text/css" href="files/assets/switcher/css/color1.css" title="color1" media="all" data-default-color="true" />
-		<link rel="alternate stylesheet" type="text/css" href="files/assets/switcher/css/color2.css" title="color2" media="all" />
-		<link rel="alternate stylesheet" type="text/css" href="files/assets/switcher/css/color3.css" title="color3" media="all" />
-		<link rel="alternate stylesheet" type="text/css" href="files/assets/switcher/css/color4.css" title="color4" media="all" />
-		<link rel="alternate stylesheet" type="text/css" href="files/assets/switcher/css/color5.css" title="color5" media="all" />
-		<link rel="alternate stylesheet" type="text/css" href="files/assets/switcher/css/color6.css" title="color6" media="all" />
-	<!-- Style Status -->
-	<style><?php echo $styling['style']; ?></style>
-
-
-
-	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTVFgsePm5EuWcL1aYP97CDoy9CXLHKEh16QvZ6jIW3" crossorigin="anonymous">
-    
-    
-    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin=""/>
-     
-     
-    <link rel="stylesheet" href="/mapp/assets/css/style.css">
-
-
-	<style>
-	.label{border:1px solid #000}
-	.label-danger{background-color:#db2a31}.label-danger[href]:hover,.label-danger[href]:focus{background-color:#c9302c}
-	.label{display:inline;padding:.2em .6em .3em;font-size:75%;line-height:1;color:#fff;text-align:center;white-space:nowrap;vertical-align:baseline;border-radius:.25em}
-	.label[href]:hover,.label[href]:focus{color:#fff;text-decoration:none;cursor:pointer}.label:empty{display:none}
-	</style>
-	
-	<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
-	
-	<style>
-	@media only screen and (min-width: 768px) { 
-	    .mobilexe{
-	        display: none;
-	    }
-	}
-	</style>
-
-</head>
 
    <!-- Menu -->
 <?php include_once "menu.php"; ?>
@@ -131,16 +64,16 @@ extract($data);
     </div>
     <!-- breadcrumb end -->
 
-    
+
 
 
 <main class="slide mb-4">
 
 
 <div class="container">
-	
 
-	
+
+
 
 		<!-- Map start -->
 
@@ -166,52 +99,52 @@ extract($data);
           <h3>Destination</h3>
           <p id="isp-x"><?php echo $paisdestino ?></p>
         </div>
-      </div> 
+      </div>
       <div id="map" class="map-container" style="height: 400px; width: 100%;"></div>
       </div>
       </div>
-      
-      
-      
-  
+
+
+
+
 
 <!-- map end -->
-        
+
 		<hr class="mobilexe" style="border: none; height: 0px; margin-top: 65%;">
-		
+
 		<hr class="mt-4" style="border: none; height: 0px;">
-		
+
 		<div class="row">
 		  <div class="col-md-12 py-2 mt-4">
 			<h2><center>ADDITIONAL INFORMATION</center></h2>
 		  </div>
-		  
+
 			<div class="col-md-4 py-2"> <font size=2 color="Black" face="arial,verdana"><strong>Origin:</strong></font> <?php echo $invice_no; ?><br />
 			<font size=2 color="Black" face="arial,verdana"><strong>Delivery schedule:</strong></font> <?php echo $schedule; ?><br />
 				<font size=2 color="Black" face="arial,verdana"><strong>Destination:</strong></font> <?php echo $paisdestino; ?><br />
 				<font size=2 color="Black" face="arial,verdana"><strong>Service mode:</strong></font> <?php echo $mode; ?><br />
 				<font size=2 color="Black" face="arial,verdana"><strong>Type service:</strong></font> <?php echo $type; ?><br />
 				<font size=2 color="Black" face="arial,verdana"><strong>Weight:</strong></font> <?php echo $weight; ?>&nbsp;kg<br />
-				<font size=2 color="Black" face="arial,verdana"><strong>Collection date and time:</strong></font> <?php echo $pick_date; ?><br/>   
+				<font size=2 color="Black" face="arial,verdana"><strong>Collection date and time:</strong></font> <?php echo $pick_date; ?><br/>
 				<font size=2 color="Black" face="arial,verdana"><strong>Shipping description:</strong></font> <?php echo $comments; ?>
 			</div>
 			<div class="col-md-4 py-2"> <font size=3 color="Black" face="arial,verdana"><strong>DETAILS OF THE SENDER</strong></font><br />
 				<font size=2 color="Black" face="arial,verdana"><strong>Name:</strong></font> <?php echo $ship_name; ?><br />
 				<font size=2 color="Black" face="arial,verdana"><strong>Phone:</strong></font> <?php echo $phone; ?><br />
-				<font size=2 color="Black" face="arial,verdana"><strong>Address:</strong></font>  <?php echo $s_add; ?> 
+				<font size=2 color="Black" face="arial,verdana"><strong>Address:</strong></font>  <?php echo $s_add; ?>
 			</div>
 			<div class="col-md-4 py-2"> <font size=3 color="Black" face="arial,verdana"><strong>DETAILS OF THE RECIPIENT</strong></font><br />
 				<font size=2 color="Black" face="arial,verdana"><strong>Name:</strong></font> <?php echo $rev_name; ?><br />
 				<font size=2 color="Black" face="arial,verdana"><strong>Phone:</strong></font> <?php echo $r_phone; ?><br />
 				<font size=2 color="Black" face="arial,verdana"><strong>Address:</strong></font>  <?php echo $r_add; ?>
-			</div>				
+			</div>
 		</div>
 		<hr />
 		<div class="row">
 			<div class="col-md-12 py-2 mt-2">
-			    
+
 				<h2><center>Shipping history</center></h2><br /><br />
-				
+
 					<?php
 						require_once('dashboard/database.php');
 
@@ -223,14 +156,14 @@ extract($data);
 										<td><font color="Black" face="arial,verdana"><strong>New Location</strong></font></td>
 										<td><font color="Black" face="arial,verdana"><strong>State</strong></font></td>
 										<td><font color="Black" face="arial,verdana"><strong>Time</strong></font></td>
-										<td><font color="Black" face="arial,verdana"><strong>Remarks</strong></font></td>																							
+										<td><font color="Black" face="arial,verdana"><strong>Remarks</strong></font></td>
 									</tr>';
 						if(mysql_num_rows($result)>0){
 							while($row = mysql_fetch_array($result)){
 								echo '<tr align="center">
 										<td><font size=2>'.$row['pick_time'].'</font></td>
 										<td><font size=2>'.$row['status'].'</font></td>
-										<td><font size=2>'.$row['bk_time'].'</font></td>				
+										<td><font size=2>'.$row['bk_time'].'</font></td>
 										<td><font size=2>'.$row['comments'].'</font></td>
 										</tr>';
 							}
@@ -242,7 +175,7 @@ extract($data);
 						echo '</table>';
 					?>
 			</div>
-		</div> 
+		</div>
  <!-- End Deprixa Section -->
 
 </div>
@@ -254,9 +187,9 @@ extract($data);
  <?php include_once "footer.php"; ?>
 
     <!-- /Footer -->
-    
-    <script>   
- 
+
+    <script>
+
     const svgIcon = L.divIcon({
   html: `
   <svg xmlns="http://www.w3.org/2000/svg" width="46" height="56"><path fill-rule="evenodd" d="M39.263 7.673c8.897 8.812 8.966 23.168.153 32.065l-.153.153L23 56 6.737 39.89C-2.16 31.079-2.23 16.723 6.584 7.826l.153-.152c9.007-8.922 23.52-8.922 32.526 0zM23 14.435c-5.211 0-9.436 4.185-9.436 9.347S17.79 33.128 23 33.128s9.436-4.184 9.436-9.346S28.21 14.435 23 14.435z"/></svg>`,
@@ -302,7 +235,7 @@ function myIPadress(ipAddress) {
             $("header").append(
               `<div class="ErorIP"><span>your ip Adress is Incorrect !!!</span></div>`
             )
-          } 
+          }
       })
 
 }
@@ -310,12 +243,12 @@ function myIPadress(ipAddress) {
    $("#ip-address").html(data.ip)
    $("#location").html(data.location.city + "," + data.location.country + " " + data.location.postalCode)
    $("#timezone").html("UTC " + data.location.timezone)
-   $("#isp").html(data.isp) 
+   $("#isp").html(data.isp)
   }
   function displayMap(data){
     mymap.setView([data.location.lat, data.location.lng], 13);
     marker.setLatLng([data.location.lat, data.location.lng])
-  } 
+  }
 $("#button-addon2").click(()=>{
   var input = $(".form-control").val()
   if(input==""){
