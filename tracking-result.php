@@ -110,9 +110,9 @@ extract($data);
 
 <!-- map end -->
 
-		<hr class="mobilexe" style="border: none; height: 0px; margin-top: 65%;">
 
-		<hr class="mt-4" style="border: none; height: 0px;">
+
+		<hr style="border: none; height: 0px;">
 
 		<div class="row">
 		  <div class="col-md-12 py-2 mt-4">
