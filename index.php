@@ -160,9 +160,9 @@
               </div>
               <div class="signature-block">
                 <div class="signature-body">
-                  <h6>john peter</h6>
+                  <h6>Emir Akbas</h6>
                   <p>founder</p>
-                </div><img src="assets/images/signature/1.png" alt="signature"/>
+                </div>
               </div>
             </div>
             <!-- End .col-lg-6-->
@@ -393,4 +393,4 @@
       -->
 
 
-<?php include_once "footer.php"; ?>d
+<?php include_once "footer.php"; ?>
