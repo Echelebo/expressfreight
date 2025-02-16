@@ -84,7 +84,7 @@ extract($row);
 			  <span><img src="../logo-image/image_logo.php?id=1" width="150" height="39" ></span>
 			  <small class="pull-right"><?php  setlocale(LC_ALL,"en_EN");
 					echo strftime("%A %d de %B del %Y");  ?></small>
-			  <center><font size="2"><b>Email:</b> support@expressfreights.net <br />www.expressfreights.net<br /></font><font size="3">Tracking No: <?php echo $tracking; ?></font></center>
+			  <center><font size="2"><b>Email:</b> contact@elexpressfreight.com <br />www.elexpressfreight.com<br /></font><font size="3">Tracking No: <?php echo $tracking; ?></font></center>
 
             </h2>
           </div><!-- /.col -->

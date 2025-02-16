@@ -38,8 +38,7 @@
 	$phone = $_POST['phone'];
 	$correo = $_POST['correo'];
 	$email = $_POST['email'];
-	$lati = $_POST['lati'];
-	$lngi = $_POST['lngi'];
+
 
 	#
 	## Obtengo datos de la empresa
@@ -50,11 +49,11 @@
 		$pre  = $row["prefijo"];
 	}
 
-	$sql = "INSERT INTO courier_track (cid, cons_no, letra, pick_time, status, comments, bk_time, ship_name, phone, lati, lngi, correo, email, user)
-			VALUES ($cid, '$cons_no', '$pre', '$pick_time | $citaddress', '$status', '$comments', NOW(), '$ship_name', '$phone', '$lati', '$lngi', '$correo', '$email', '$user')";
+	$sql = "INSERT INTO courier_track (cid, cons_no, letra, pick_time, status, comments, bk_time, ship_name, phone, correo, email, user)
+			VALUES ($cid, '$cons_no', '$pre', '$pick_time | $citaddress', '$status', '$comments', NOW(), '$ship_name', '$phone', '$correo', '$email', '$user')";
 	dbQuery($sql);
 
-	$sql_1 = "UPDATE courier SET status='$status', lati='$lati', lngi='$lngi', pick_time2 = '$pick_time' WHERE cid = $cid AND cons_no = '$cons_no'";
+	$sql_1 = "UPDATE courier SET status='$status', pick_time2 = '$pick_time' WHERE cid = $cid AND cons_no = '$cons_no'";
 	dbQuery($sql_1);
 
 

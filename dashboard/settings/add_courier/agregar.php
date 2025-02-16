@@ -122,8 +122,6 @@
 		$Packupdate 		= $_POST['Packupdate'];
 		$Schedule 			= $_POST['Schedule'];
 		$Pickuptime 		= $_POST['Pickuptime'];
-		$lati               = $_POST['lati'];
-		$lngi               = $_POST['lngi'];
 		$iso 				= $_POST['iso'];
 		$state 				= $_POST['state'];
 		$ciudad 			= $_POST['ciudad'];
@@ -160,12 +158,12 @@
 			}
 
 		$sql = "INSERT INTO courier (tracking,cons_no, letra,ship_name, phone, s_add, cc, locker, correo, rev_name, r_phone, telefono1, r_add, cc_r, email, type, weight, variable,
-		kiloadicional, shipping_subtotal, altura, ancho, longitud, totalpeso, invice_no, qty, book_mode, freight, declarate, declarado, mode, pick_date, schedule, pick_time, pick_time2, lati, lngi, iso,
+		kiloadicional, shipping_subtotal, altura, ancho, longitud, totalpeso, invice_no, qty, book_mode, freight, declarate, declarado, mode, pick_date, schedule, pick_time, pick_time2, iso,
 		state, ciudad, zipcode, paisdestino, iso1, state1, city1, zipcode1, status, comments, officename, status_delivered, user, book_date, pesoreal)
 		VALUES('$cons_no','$cons_no', '$pre', '$Shippername','$Shipperphone', '$Shipperaddress', '$Shippercc', '$Shipperlocker', '$Shipperemail', '$Receivername',
 		'$Receiverphone', '$telefono1', '$Receiveraddress', '$Receivercc_r', '$Receiveremail', '$Shiptype',$Weight , '$variable', '$kiloadicional', '$shipping_subtotal',
 		'$altura', '$ancho', '$longitud', '$totalpeso', '$Invoiceno', $Qnty, '$bookingmode', '$Totalfreight',  '$Totaldeclarate', '$Totaldeclarado', '$Mode', '$Packupdate',
-		'$Schedule', '$Pickuptime', '$Pickuptime', '$lati', '$lngi', '$iso', '$state', '$ciudad', '$zipcode', '$paisdestino', '$iso1', '$state1', '$city1', '$zipcode1', '$status', '$Comments', '$officename',
+		'$Schedule', '$Pickuptime', '$Pickuptime', '$iso', '$state', '$ciudad', '$zipcode', '$paisdestino', '$iso1', '$state1', '$city1', '$zipcode1', '$status', '$Comments', '$officename',
 		'$status_delivered', '$user', curdate(), '$pesoreal')";
 			//echo $sql;
 		dbQuery($sql);
