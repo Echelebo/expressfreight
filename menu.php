@@ -1,14 +1,14 @@
 <!DOCTYPE html>
 <html dir="ltr" lang="en-US">
 
-<!-- Mirrored from demo.zytheme.com/equita/home-classic.php by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 15 Feb 2025 14:53:59 GMT -->
+<!-- Mirrored from demo.zytheme.com/Elexpress Freight/home-classic.php by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 15 Feb 2025 14:53:59 GMT -->
 <head>
     <meta charset="utf-8"/>
     <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
     <meta name="author" content="Ayman Fikry"/>
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1"/>
     <meta name="description" content="Multi-purpose Business html5 template"/>
-    <title>Home Classic - Equita Logistics Cargo HTML5 Template</title>
+    <title>Home Classic - Elexpress Freight Logistics Cargo</title>
     <link href="assets/images/favicon/favicon.png" rel="icon"/>
     <!--  Fonts ==
     -->
@@ -42,7 +42,7 @@
           <p> <span>Need Help : </span>providing Innovative and Sustainable Solutions.</p>
         </div>
         <nav class="navbar navbar-expand-lg navbar-light navbar-sticky" id="primary-menu">
-          <div class="container"><a class="navbar-brand" href="/"><img class="logo logo-light" src="assets/images/logo/logo-light.png" alt="Equita Logo"/><img class="logo logo-dark" src="assets/images/logo/logo-dark.png" alt="Equita Logo"/></a>
+          <div class="container"><a class="navbar-brand" href="/"><img class="logo logo-light" src="assets/images/logo/logo-light.png" alt="Elexpress Freight Logo"/><img class="logo logo-dark" src="assets/images/logo/logo-dark.png" alt="Elexpress Freight Logo"/></a>
             <button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbarContent" aria-controls="navbarContent" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
             <!--  Collect the nav links, forms, and other content for toggling  -->
             <div class="collapse navbar-collapse" id="navbarContent">
