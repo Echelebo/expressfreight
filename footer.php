@@ -33,9 +33,9 @@
                   <h5>about</h5>
                 </div>
                 <div class="widget-content">
-                  <p>Equita is a representative logistics operator providing full range of service in the sphere of customs cargo and transportation worldwide.</p>
+                  <p>Elexpress Freight is a representative logistics operator providing full range of service in the sphere of customs cargo and transportation worldwide.</p>
                   <!-- Start .module-social-->
-                  <div class="module module-social"><a class="share-facebook" href="javascript:void(0)"><i class="fab fa-facebook-f"> </i></a><a class="share-instagram" href="javascript:void(0)"><i class="fab fa-instagram"></i></a><a class="share-twitter" href="javascript:void(0)"><i class="fab fa-twitter"></i></a></div>
+
                   <!-- End .module-social-->
                 </div>
               </div>
@@ -46,12 +46,11 @@
                 </div>
                 <div class="widget-content">
                   <ul>
-                    <li><a href="javascript:void(0)">warehouse</a></li>
-                    <li><a href="javascript:void(0)">air freight</a></li>
-                    <li><a href="javascript:void(0)">ocean freight</a></li>
-                    <li><a href="javascript:void(0)">road freight</a></li>
-                    <li><a href="javascript:void(0)">supply chain</a></li>
-                    <li><a href="javascript:void(0)">packaging</a></li>
+                    <li><a href="service-warehouse.php">warehouse</a></li>
+                    <li><a href="service-air-freight.php">air freight</a></li>
+                    <li><a href="service-ocean-freight.php">ocean freight</a></li>
+                    <li><a href="service-road-freight.php">road freight</a></li>
+
                   </ul>
                 </div>
               </div>
@@ -62,12 +61,10 @@
                 </div>
                 <div class="widget-content">
                   <ul>
-                    <li><a href="javascript:void(0)">retail & consumer</a></li>
-                    <li><a href="javascript:void(0)">sciences & healthcare</a></li>
-                    <li><a href="javascript:void(0)">industrial & chemical</a></li>
-                    <li><a href="javascript:void(0)">power generation</a></li>
-                    <li><a href="javascript:void(0)">food & peverage</a></li>
-                    <li><a href="javascript:void(0)">oil & gas</a></li>
+                    <li><a href="industry-retail.php">retail & consumer</a></li>
+                    <li><a href="industry-science.php">sciences & healthcare</a></li>
+
+
                   </ul>
                 </div>
               </div>
@@ -94,7 +91,7 @@
         <div class="footer-bottom">
           <div class="row">
             <div class="col-md-12 col-md-12 text--center footer-copyright">
-              <div class="copyright"><span>&copy; Equita, With Love by</span><a href="https://1.envato.market/kP9BV"> Zytheme.com</a></div>
+              <div class="copyright"><span>&copy; Elexpress Freight.</div>
             </div>
           </div>
           <!--  End .row-->
