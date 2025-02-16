@@ -95,11 +95,11 @@
                     <h5>stats &amp; charts </h5>
                     <div class="row">
                       <div class="col-12 col-lg-6">
-                        <p>Our mix of company-owned and contractor assets allows us to retain optimal levels of control whilst expanding our reach to over 96% of towns in Australia. With 40 years of LTL experience, we are now a trusted LTL freight provider for shippers of all sizes and commodity types.</p>
+                        <p>Our mix of company-owned and contractor assets allows us to retain optimal levels of control whilst expanding our reach to over 96% of towns in Turkey. With 40 years of LTL experience, we are now a trusted LTL freight provider for shippers of all sizes and commodity types.</p>
                         <p>
                            Our LTL service extends to all states and territories, and includes multiple per-week services to places many others only serve occasionally, including Darwin, Alice Springs, Newman, Mt. Isa, Launceston and Burnie.</p>
                         <p>
-                           We pride ourselves on providing the best transport and shipping services currently available in Australia. Our skilled personnel, utilising the latest communications, tracking and processing software, combined with decades of experience, ensure all freight is are shipped.</p>
+                           We pride ourselves on providing the best transport and shipping services currently available in Turkey. Our skilled personnel, utilising the latest communications, tracking and processing software, combined with decades of experience, ensure all freight is are shipped.</p>
                       </div>
                       <div class="col-12 col-lg-6"> <img class="entry-chart" src="assets/images/chart/chart-2.png" alt="Chart image"/></div>
                     </div>
@@ -185,7 +185,7 @@
                           <div class="case-img"><img src="assets/images/work/grid/1.jpg" alt="work Item Image"/></div>
                           <div class="case-content">
                             <div class="case-title">
-                              <h4><a href="case-study-single.php">floride chemical factory</a></h4>
+                              <h4><a href="javascript:void(0)">floride chemical factory</a></h4>
                             </div>
                             <div class="case-cat"><a href="javascript:void(0)">analytics</a><a href="javascript:void(0)">optimization</a></div>
                           </div>
@@ -196,7 +196,7 @@
                           <div class="case-img"><img src="assets/images/work/grid/2.jpg" alt="work Item Image"/></div>
                           <div class="case-content">
                             <div class="case-title">
-                              <h4><a href="case-study-single.php">warehouse inventory</a></h4>
+                              <h4><a href="javascript:void(0)">warehouse inventory</a></h4>
                             </div>
                             <div class="case-cat"><a href="javascript:void(0)">warehousing</a><a href="javascript:void(0)">distrbution</a></div>
                           </div>
@@ -207,7 +207,7 @@
                           <div class="case-img"><img src="assets/images/work/grid/3.jpg" alt="work Item Image"/></div>
                           <div class="case-content">
                             <div class="case-title">
-                              <h4><a href="case-study-single.php">Minimize Manufacturing</a></h4>
+                              <h4><a href="javascript:void(0)">Minimize Manufacturing</a></h4>
                             </div>
                             <div class="case-cat"><a href="javascript:void(0)">logistics</a><a href="javascript:void(0)">analytics</a></div>
                           </div>
@@ -218,7 +218,7 @@
                           <div class="case-img"><img src="assets/images/work/grid/4.jpg" alt="work Item Image"/></div>
                           <div class="case-content">
                             <div class="case-title">
-                              <h4><a href="case-study-single.php">floride chemical factory</a></h4>
+                              <h4><a href="javascript:void(0)">floride chemical factory</a></h4>
                             </div>
                             <div class="case-cat"><a href="javascript:void(0)">analytics</a><a href="javascript:void(0)">optimization</a></div>
                           </div>
@@ -229,7 +229,7 @@
                           <div class="case-img"><img src="assets/images/work/grid/5.jpg" alt="work Item Image"/></div>
                           <div class="case-content">
                             <div class="case-title">
-                              <h4><a href="case-study-single.php">warehouse inventory</a></h4>
+                              <h4><a href="javascript:void(0)">warehouse inventory</a></h4>
                             </div>
                             <div class="case-cat"><a href="javascript:void(0)">warehousing</a><a href="javascript:void(0)">distrbution</a></div>
                           </div>
@@ -240,7 +240,7 @@
                           <div class="case-img"><img src="assets/images/work/grid/6.jpg" alt="work Item Image"/></div>
                           <div class="case-content">
                             <div class="case-title">
-                              <h4><a href="case-study-single.php">Minimize Manufacturing</a></h4>
+                              <h4><a href="javascript:void(0)">Minimize Manufacturing</a></h4>
                             </div>
                             <div class="case-cat"><a href="javascript:void(0)">logistics</a><a href="javascript:void(0)">analytics</a></div>
                           </div>
@@ -273,7 +273,7 @@
               <div class="col-12 col-lg-9 col-xl-8">
                 <div class="widget-newsletter">
                   <div class="widget-content">
-                    <p>Sign up for industry alerts,<br/>insights from Equita.</p>
+                    <p>Sign up for industry alerts,<br/>insights from Elexpress Freight.</p>
                     <form class="form-newsletter mailchimp">
                       <input class="form-control" type="email" name="email" placeholder="Your Email Address"/>
                       <input class="btn btn--primary" type="submit" value="sign up!"/>
@@ -293,7 +293,7 @@
                   <h5>about</h5>
                 </div>
                 <div class="widget-content">
-                  <p>Equita is a representative logistics operator providing full range of service in the sphere of customs cargo and transportation worldwide.</p>
+                  <p>Elexpress Freight is a representative logistics operator providing full range of service in the sphere of customs cargo and transportation worldwide.</p>
                   <!-- Start .module-social-->
                   <div class="module module-social"><a class="share-facebook" href="javascript:void(0)"><i class="fab fa-facebook-f"> </i></a><a class="share-instagram" href="javascript:void(0)"><i class="fab fa-instagram"></i></a><a class="share-twitter" href="javascript:void(0)"><i class="fab fa-twitter"></i></a></div>
                   <!-- End .module-social-->
@@ -354,7 +354,7 @@
         <div class="footer-bottom">
           <div class="row">
             <div class="col-md-12 col-md-12 text--center footer-copyright">
-              <div class="copyright"><span>&copy; Equita, With Love by</span><a href="https://1.envato.market/kP9BV"> Zytheme.com</a></div>
+              <div class="copyright"><span>&copy; Elexpress Freight, With Love by</span><a href="https://1.envato.market/kP9BV"> Zytheme.com</a></div>
             </div>
           </div>
           <!--  End .row-->
@@ -370,5 +370,5 @@
     <script src="assets/js/functions.js"></script>
   </body>
 
-<!-- Mirrored from demo.zytheme.com/equita/service-air-freight.php by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 15 Feb 2025 14:54:55 GMT -->
+<!-- Mirrored from demo.zytheme.com/Elexpress Freight/service-air-freight.php by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 15 Feb 2025 14:54:55 GMT -->
 </html>

@@ -230,7 +230,7 @@
                     <div class="card-body">
                       <ul class="list-unstyled info">
                         <li><span class="fas fa-map-marker-alt"></span><a href="javascript:void(0)">New York 11226 United States.</a></li>
-                        <li><span class="fas fa-envelope"></span><a href="mailto::Equita@7oroof.com">Equita@7oroof.com</a></li>
+                        <li><span class="fas fa-envelope"></span><a href="mailto::contact@elexpressfreight.com">contact@elexpressfreight.com</a></li>
                         <li><span class="fas fa-phone-alt"></span><a href="tel:01061245741">(002) 01061245741</a></li>
                       </ul>
                     </div>
@@ -242,7 +242,7 @@
                     <div class="card-body">
                       <ul class="list-unstyled info">
                         <li><span class="fas fa-map-marker-alt"></span><a href="javascript:void(0)">New York 11226 United States.</a></li>
-                        <li><span class="fas fa-envelope"></span><a href="mailto::Equita@7oroof.com">Equita@7oroof.com</a></li>
+                        <li><span class="fas fa-envelope"></span><a href="mailto::contact@elexpressfreight.com">contact@elexpressfreight.com</a></li>
                         <li><span class="fas fa-phone-alt"></span><a href="tel:01061245741">(002) 01061245741</a></li>
                       </ul>
                     </div>
@@ -254,7 +254,7 @@
                     <div class="card-body">
                       <ul class="list-unstyled info">
                         <li><span class="fas fa-map-marker-alt"></span><a href="javascript:void(0)">New York 11226 United States.</a></li>
-                        <li><span class="fas fa-envelope"></span><a href="mailto::Equita@7oroof.com">Equita@7oroof.com</a></li>
+                        <li><span class="fas fa-envelope"></span><a href="mailto::contact@elexpressfreight.com">contact@elexpressfreight.com</a></li>
                         <li><span class="fas fa-phone-alt"></span><a href="tel:01061245741">(002) 01061245741</a></li>
                       </ul>
                     </div>

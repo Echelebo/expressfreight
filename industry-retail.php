@@ -97,7 +97,7 @@
                     <h5>stats &amp; charts </h5>
                     <div class="row">
                       <div class="col-12">
-                        <p class="top">Our mix of company-owned and contractor assets allows us to retain optimal levels of control whilst expanding our reach to over 96% of towns in Australia. With 40 years of LTL experience, we are now a trusted LTL freight provider for shippers of all sizes and commodity types.</p>
+                        <p class="top">Our mix of company-owned and contractor assets allows us to retain optimal levels of control whilst expanding our reach to over 96% of towns in Turkey. With 40 years of LTL experience, we are now a trusted LTL freight provider for shippers of all sizes and commodity types.</p>
                       </div>
                       <div class="col-12 col-lg-6">
                         <h6>our solutions </h6>
@@ -200,7 +200,7 @@
             <!--End .col-lg-6-->
             <div class="col-12 col-lg-6 offset-lg-1">
               <div class="prief-set prief-set-2">
-                <p>We pride ourselves on providing the best transport and shipping services available allover the world. Our skilled personnal and processing software, combined with decades of experience! Through integrated supply chain solutions, Equita drives sustainable competitive advantages to some of Australia's largest companies.</p>
+                <p>We pride ourselves on providing the best transport and shipping services available allover the world. Our skilled personnal and processing software, combined with decades of experience! Through integrated supply chain solutions, Elexpress Freight drives sustainable competitive advantages to some of Turkey's largest companies.</p>
                 <ul class="advantages-list">
                   <li><i class="fas fa-check-circle"></i> Quality Control System</li>
                   <li><i class="fas fa-check-circle"></i> Unrivalled workmanship</li>
@@ -219,7 +219,7 @@
                   <div class="contact-body trackFormActive">
                     <div class="row">
                       <div class="col-12 col-lg-8">
-                        <form class="contactForm quote-form mb-0" method="post" action="https://demo.zytheme.com/equita/assets/php/contact.php">
+                        <form class="contactForm quote-form mb-0" method="post" action="https://demo.zytheme.com/Elexpress Freight/assets/php/contact.php">
                           <h5 class="card-heading">personal data</h5>
                           <div class="row">
                             <div class="col-12 col-md-12 col-lg-4">
@@ -298,7 +298,7 @@
                             </div>
                           </div>
                         </form>
-                        <form class="contactForm track-form mb-0" method="post" action="https://demo.zytheme.com/equita/assets/php/contact.php">
+                        <form class="contactForm track-form mb-0" method="post" action="https://demo.zytheme.com/Elexpress Freight/assets/php/contact.php">
                           <h5 class="card-heading">personal data</h5>
                           <div class="row">
                             <div class="col-12">
@@ -380,7 +380,7 @@
                       <div class="testimonial-img"><img src="assets/images/testimonial/3.jpg" alt="Testimonial Author"/></div>
                       <div class="testimonial-content">
                         <div class="testimonial-rating"><i class="icon-Star-1"></i><i class="icon-Star-1"></i><i class="icon-Star-1"></i><i class="icon-Star-1"></i><i class="icon-Star-1"></i></div>
-                        <p>Equita Logistics International customer service is some of the best we have ever had with ocean we like to ship as much as possible with you all.</p>
+                        <p>Elexpress Freight Logistics International customer service is some of the best we have ever had with ocean we like to ship as much as possible with you all.</p>
                         <div class="testimonial-meta">
                           <h4>John R Peter</h4>
                           <p>movein</p>
@@ -396,7 +396,7 @@
                       <div class="testimonial-img"><img src="assets/images/testimonial/4.jpg" alt="Testimonial Author"/></div>
                       <div class="testimonial-content">
                         <div class="testimonial-rating"><i class="icon-Star-1"></i><i class="icon-Star-1"></i><i class="icon-Star-1"></i><i class="icon-Star-1"></i><i class="icon-Star-1"></i></div>
-                        <p>Equita Logistics International customer service is some of the best we have ever had with ocean we like to ship as much as possible with you all.</p>
+                        <p>Elexpress Freight Logistics International customer service is some of the best we have ever had with ocean we like to ship as much as possible with you all.</p>
                         <div class="testimonial-meta">
                           <h4>James Wane</h4>
                           <p>Aleko Company</p>
@@ -412,7 +412,7 @@
                       <div class="testimonial-img"><img src="assets/images/testimonial/3.jpg" alt="Testimonial Author"/></div>
                       <div class="testimonial-content">
                         <div class="testimonial-rating"><i class="icon-Star-1"></i><i class="icon-Star-1"></i><i class="icon-Star-1"></i><i class="icon-Star-1"></i><i class="icon-Star-1"></i></div>
-                        <p>Equita Logistics International customer service is some of the best we have ever had with ocean we like to ship as much as possible with you all.</p>
+                        <p>Elexpress Freight Logistics International customer service is some of the best we have ever had with ocean we like to ship as much as possible with you all.</p>
                         <div class="testimonial-meta">
                           <h4>Marko Smith</h4>
                           <p>Aify Agency</p>
@@ -428,7 +428,7 @@
                       <div class="testimonial-img"><img src="assets/images/testimonial/4.jpg" alt="Testimonial Author"/></div>
                       <div class="testimonial-content">
                         <div class="testimonial-rating"><i class="icon-Star-1"></i><i class="icon-Star-1"></i><i class="icon-Star-1"></i><i class="icon-Star-1"></i><i class="icon-Star-1"></i></div>
-                        <p>Equita Logistics International customer service is some of the best we have ever had with ocean we like to ship as much as possible with you all.</p>
+                        <p>Elexpress Freight Logistics International customer service is some of the best we have ever had with ocean we like to ship as much as possible with you all.</p>
                         <div class="testimonial-meta">
                           <h4>Marko Smith</h4>
                           <p>movein</p>
@@ -444,7 +444,7 @@
                       <div class="testimonial-img"><img src="assets/images/testimonial/3.jpg" alt="Testimonial Author"/></div>
                       <div class="testimonial-content">
                         <div class="testimonial-rating"><i class="icon-Star-1"></i><i class="icon-Star-1"></i><i class="icon-Star-1"></i><i class="icon-Star-1"></i><i class="icon-Star-1"></i></div>
-                        <p>Equita Logistics International customer service is some of the best we have ever had with ocean we like to ship as much as possible with you all.</p>
+                        <p>Elexpress Freight Logistics International customer service is some of the best we have ever had with ocean we like to ship as much as possible with you all.</p>
                         <div class="testimonial-meta">
                           <h4>Marko Smith</h4>
                           <p>Aleko Company</p>
@@ -460,7 +460,7 @@
                       <div class="testimonial-img"><img src="assets/images/testimonial/4.jpg" alt="Testimonial Author"/></div>
                       <div class="testimonial-content">
                         <div class="testimonial-rating"><i class="icon-Star-1"></i><i class="icon-Star-1"></i><i class="icon-Star-1"></i><i class="icon-Star-1"></i><i class="icon-Star-1"></i></div>
-                        <p>Equita Logistics International customer service is some of the best we have ever had with ocean we like to ship as much as possible with you all.</p>
+                        <p>Elexpress Freight Logistics International customer service is some of the best we have ever had with ocean we like to ship as much as possible with you all.</p>
                         <div class="testimonial-meta">
                           <h4>Marko Smith</h4>
                           <p>Aify Agency</p>

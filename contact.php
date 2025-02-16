@@ -22,7 +22,7 @@
                     <h6>contact details</h6>
                     <ul class="list-unstyled info">
                       <li><span class="fas fa-map-marker-alt"></span><a href="javascript:void(0)">New York 11226 United States.</a></li>
-                      <li><span class="fas fa-envelope"></span><a href="mailto::Equita@7oroof.com">Equita@7oroof.com</a></li>
+                      <li><span class="fas fa-envelope"></span><a href="mailto::contact@elexpressfreight.com">contact@elexpressfreight.com</a></li>
                       <li><span class="fas fa-phone-alt"></span><a href="tel:01061245741">(002) 01061245741</a></li>
                     </ul>
                   </div>
@@ -40,7 +40,7 @@
               </div>
             </div>
             <div class="col-12 col-lg-8">
-              <form class="contactForm" method="post" action="https://demo.zytheme.com/equita/assets/php/contact.php">
+              <form class="contactForm" method="post" action="javascript:void(0)">
                 <div class="row">
                   <div class="col-12 col-lg-4">
                     <input class="form-control" type="text" name="contact-name" placeholder="name" required=""/>

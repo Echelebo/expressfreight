@@ -86,7 +86,7 @@
               <div class="data">
                 <div class="data-icon"><i class="flaticon-034-call-center"></i></div>
                 <div class="data-body">
-                  <h6>quick contact </h6><a href="mailto::Equita@7oroof.com">Equita@7oroof.com</a><a href="tel:01061245741">(002) 01061245741</a>
+                 If you have any questions or need help, feel free to contact with our team.
                 </div>
               </div>
             </div>
@@ -140,7 +140,7 @@
                 <div class="row">
                   <div class="col-12 col-lg-7">
                     <div class="block-left">
-                      <p>Equita Group is a representative logistics operator providing full range of service in the sphere of customs clearance transportation worldwide for any cargo</p>
+                      <p>Elexpress Freight Group is a representative logistics operator providing full range of service in the sphere of customs clearance transportation worldwide for any cargo</p>
                       <p>We pride ourselves on providing the best transport and shipping services available allover the world. Our skilled personnel, utilising the latest communications, tracking and combined with experience through integrated supply chain solutions!</p>
                     </div>
                   </div>
@@ -307,7 +307,7 @@
             <!--End .col-lg-6-->
             <div class="col-12 col-lg-6 offset-lg-1">
               <div class="prief-set prief-set-2">
-                <p>We pride ourselves on providing the best transport and shipping services available allover the world. Our skilled personnal and processing software, combined with decades of experience! Through integrated supply chain solutions, Equita drives sustainable competitive advantages to some of Australia's largest companies.</p>
+                <p>We pride ourselves on providing the best transport and shipping services available allover the world. Our skilled personnal and processing software, combined with decades of experience! Through integrated supply chain solutions, Elexpress Freight drives sustainable competitive advantages to some of Turkey's largest companies.</p>
                 <ul class="advantages-list">
                   <li><i class="fas fa-check-circle"></i> Quality Control System</li>
                   <li><i class="fas fa-check-circle"></i> Unrivalled workmanship</li>
@@ -326,7 +326,7 @@
                   <div class="contact-body trackFormActive">
                     <div class="row">
                       <div class="col-12 col-lg-8">
-                        <form class="contactForm quote-form mb-0" method="post" action="https://demo.zytheme.com/equita/assets/php/contact.php">
+                        <form class="contactForm quote-form mb-0" method="post" action="https://demo.zytheme.com/Elexpress Freight/assets/php/contact.php">
                           <h5 class="card-heading">personal data</h5>
                           <div class="row">
                             <div class="col-12 col-md-12 col-lg-4">
@@ -405,7 +405,7 @@
                             </div>
                           </div>
                         </form>
-                        <form class="contactForm track-form mb-0" method="post" action="https://demo.zytheme.com/equita/assets/php/contact.php">
+                        <form class="contactForm track-form mb-0" method="post" action="https://demo.zytheme.com/Elexpress Freight/assets/php/contact.php">
                           <h5 class="card-heading">personal data</h5>
                           <div class="row">
                             <div class="col-12">
@@ -474,115 +474,8 @@
       ============================
       Testimonials #2 Section
       ============================
-      -->
-      <section class="testimonial testimonial-1 testimonial-2 bg-gray">
-        <div class="container">
-          <div class="row">
-            <div class="col-12">
-              <div class="carousel owl-carousel carousel-dots" data-slide="2" data-slide-rs="1" data-autoplay="false" data-nav="false" data-dots="false" data-space="40" data-loop="true" data-speed="800">
-                <div class="testimonial-panel">
-                  <div class="testimonial-panel-warp">
-                    <div class="testimonial-icon"><i class="icon-Quote-Icon"></i></div>
-                    <div class="testimonial-body">
-                      <div class="testimonial-img"><img src="assets/images/testimonial/3.jpg" alt="Testimonial Author"/></div>
-                      <div class="testimonial-content">
-                        <div class="testimonial-rating"><i class="icon-Star-1"></i><i class="icon-Star-1"></i><i class="icon-Star-1"></i><i class="icon-Star-1"></i><i class="icon-Star-1"></i></div>
-                        <p>Equita Logistics International customer service is some of the best we have ever had with ocean we like to ship as much as possible with you all.</p>
-                        <div class="testimonial-meta">
-                          <h4>John R Peter</h4>
-                          <p>movein</p>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-                <div class="testimonial-panel">
-                  <div class="testimonial-panel-warp">
-                    <div class="testimonial-icon"><i class="icon-Quote-Icon"></i></div>
-                    <div class="testimonial-body">
-                      <div class="testimonial-img"><img src="assets/images/testimonial/4.jpg" alt="Testimonial Author"/></div>
-                      <div class="testimonial-content">
-                        <div class="testimonial-rating"><i class="icon-Star-1"></i><i class="icon-Star-1"></i><i class="icon-Star-1"></i><i class="icon-Star-1"></i><i class="icon-Star-1"></i></div>
-                        <p>Equita Logistics International customer service is some of the best we have ever had with ocean we like to ship as much as possible with you all.</p>
-                        <div class="testimonial-meta">
-                          <h4>James Wane</h4>
-                          <p>Aleko Company</p>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-                <div class="testimonial-panel">
-                  <div class="testimonial-panel-warp">
-                    <div class="testimonial-icon"><i class="icon-Quote-Icon"></i></div>
-                    <div class="testimonial-body">
-                      <div class="testimonial-img"><img src="assets/images/testimonial/3.jpg" alt="Testimonial Author"/></div>
-                      <div class="testimonial-content">
-                        <div class="testimonial-rating"><i class="icon-Star-1"></i><i class="icon-Star-1"></i><i class="icon-Star-1"></i><i class="icon-Star-1"></i><i class="icon-Star-1"></i></div>
-                        <p>Equita Logistics International customer service is some of the best we have ever had with ocean we like to ship as much as possible with you all.</p>
-                        <div class="testimonial-meta">
-                          <h4>Marko Smith</h4>
-                          <p>Aify Agency</p>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-                <div class="testimonial-panel">
-                  <div class="testimonial-panel-warp">
-                    <div class="testimonial-icon"><i class="icon-Quote-Icon"></i></div>
-                    <div class="testimonial-body">
-                      <div class="testimonial-img"><img src="assets/images/testimonial/4.jpg" alt="Testimonial Author"/></div>
-                      <div class="testimonial-content">
-                        <div class="testimonial-rating"><i class="icon-Star-1"></i><i class="icon-Star-1"></i><i class="icon-Star-1"></i><i class="icon-Star-1"></i><i class="icon-Star-1"></i></div>
-                        <p>Equita Logistics International customer service is some of the best we have ever had with ocean we like to ship as much as possible with you all.</p>
-                        <div class="testimonial-meta">
-                          <h4>Marko Smith</h4>
-                          <p>movein</p>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-                <div class="testimonial-panel">
-                  <div class="testimonial-panel-warp">
-                    <div class="testimonial-icon"><i class="icon-Quote-Icon"></i></div>
-                    <div class="testimonial-body">
-                      <div class="testimonial-img"><img src="assets/images/testimonial/3.jpg" alt="Testimonial Author"/></div>
-                      <div class="testimonial-content">
-                        <div class="testimonial-rating"><i class="icon-Star-1"></i><i class="icon-Star-1"></i><i class="icon-Star-1"></i><i class="icon-Star-1"></i><i class="icon-Star-1"></i></div>
-                        <p>Equita Logistics International customer service is some of the best we have ever had with ocean we like to ship as much as possible with you all.</p>
-                        <div class="testimonial-meta">
-                          <h4>Marko Smith</h4>
-                          <p>Aleko Company</p>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-                <div class="testimonial-panel">
-                  <div class="testimonial-panel-warp">
-                    <div class="testimonial-icon"><i class="icon-Quote-Icon"></i></div>
-                    <div class="testimonial-body">
-                      <div class="testimonial-img"><img src="assets/images/testimonial/4.jpg" alt="Testimonial Author"/></div>
-                      <div class="testimonial-content">
-                        <div class="testimonial-rating"><i class="icon-Star-1"></i><i class="icon-Star-1"></i><i class="icon-Star-1"></i><i class="icon-Star-1"></i><i class="icon-Star-1"></i></div>
-                        <p>Equita Logistics International customer service is some of the best we have ever had with ocean we like to ship as much as possible with you all.</p>
-                        <div class="testimonial-meta">
-                          <h4>Marko Smith</h4>
-                          <p>Aify Agency</p>
-                        </div>
-                      </div>
-                    </div>
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-          <!-- End .row-->
-        </div>
-        <!-- End .container-->
-      </section>
+                        -->
+
       <hr/>
       <!--
       ============================
@@ -618,7 +511,7 @@
             <div class="heading heading-8 heading-light">
               <p class="heading-subtitle">Dedicated Customer Teams & An Agile Services</p>
               <h2 class="heading-title">Global Logistics Partner To World’s Famous Brands!!</h2>
-              <p class="heading-desc">Equita Group is a representative logistics operator providing full range of service in the sphere of customs clearance transportation worldwide.</p>
+              <p class="heading-desc">Elexpress Freight Group is a representative logistics operator providing full range of service in the sphere of customs clearance transportation worldwide.</p>
               <div class="icon-set icon-set2">
                 <div class="icon-panel"> <i class="icon flaticon-016-payment-terminal"></i><span>transparent pricing</span></div>
                 <div class="icon-panel"> <i class="icon flaticon-014-box-3"></i><span>fast, effecient delivery</span></div>
@@ -642,83 +535,6 @@
       Blog #1 Section
       ============================
       -->
-      <section class="blog blog-grid" id="blog-1">
-        <div class="container">
-          <div class="row">
-            <div class="col-12 col-lg-6 offset-lg-3">
-              <div class="heading heading-7 text-center">
-                <p class="heading-subtitle">insight and trends</p>
-                <h2 class="heading-title">recent articles</h2>
-                <p class="heading-desc">Follow our latest news and thoughts which focuses exclusively on  insight, industry trends, top news headlines.</p>
-              </div>
-            </div>
-          </div>
-          <!-- End .row-->
-          <div class="row">
-            <div class=" col-12 col-md-6 col-lg-4">
-              <div class="blog-entry">
-                <div class="entry-img"><a href="blog-single.html"><img src="assets/images/blog/grid/1.jpg" alt="Importers achieve cost savings through the First Sale rule!"/></a></div>
-                <!-- End .entry-img-->
-                <!-- End .entry-date-->
-                <div class="entry-content">
-                  <div class="entry-category"><a href="javascript:void(0)">cargo</a><a href="javascript:void(0)">insights</a>
-                  </div>
-                  <div class="entry-title">
-                    <h4><a href="blog-single.html">Importers achieve cost savings through the First Sale rule!</a></h4>
-                  </div>
-                  <div class="entry-date"><span class="month">jan 20</span><span class="date">2021</span></div>
-                  <div class="entry-bio">
-                    <p>The trade war currently ensuing between the nations around the globe, fiercely with China, shows no signs of the first set of tariffs levied against solar...</p>
-                  </div>
-                  <div class="entry-more"> <a href="javascript:void(0)">Read more</a></div>
-                </div>
-              </div>
-              <!-- End .entry-content-->
-            </div>
-            <div class=" col-12 col-md-6 col-lg-4">
-              <div class="blog-entry">
-                <div class="entry-img"><a href="blog-single.html"><img src="assets/images/blog/grid/2.jpg" alt="Cargo flow through better supply chain visibility, control."/></a></div>
-                <!-- End .entry-img-->
-                <!-- End .entry-date-->
-                <div class="entry-content">
-                  <div class="entry-category"><a href="javascript:void(0)">warehouse</a><a href="javascript:void(0)">construction</a>
-                  </div>
-                  <div class="entry-title">
-                    <h4><a href="blog-single.html">Cargo flow through better supply chain visibility, control.</a></h4>
-                  </div>
-                  <div class="entry-date"><span class="month">jan 23</span><span class="date">2021</span></div>
-                  <div class="entry-bio">
-                    <p>Global provider connected products for consumers, and enterprises worldwide, supply chain control is everything, provide visibility and traceability needed for...</p>
-                  </div>
-                  <div class="entry-more"> <a href="javascript:void(0)">Read more</a></div>
-                </div>
-              </div>
-              <!-- End .entry-content-->
-            </div>
-            <div class=" col-12 col-md-6 col-lg-4">
-              <div class="blog-entry">
-                <div class="entry-img"><a href="blog-single.html"><img src="assets/images/blog/grid/3.jpg" alt="Importance of specialized focus in Projects, Oil &amp; Gas Logistics?"/></a></div>
-                <!-- End .entry-img-->
-                <!-- End .entry-date-->
-                <div class="entry-content">
-                  <div class="entry-category"><a href="javascript:void(0)">logistics</a><a href="javascript:void(0)">distrbution</a>
-                  </div>
-                  <div class="entry-title">
-                    <h4><a href="blog-single.html">Importance of specialized focus in Projects, Oil &amp; Gas Logistics?</a></h4>
-                  </div>
-                  <div class="entry-date"><span class="month">jan 24</span><span class="date">2021</span></div>
-                  <div class="entry-bio">
-                    <p>Our team provides  skilled &amp; experienced managers who know the intricacies of this vertical and focus on providing  solutions in Oil &amp; Gas sector...</p>
-                  </div>
-                  <div class="entry-more"> <a href="javascript:void(0)">Read more</a></div>
-                </div>
-              </div>
-              <!-- End .entry-content-->
-            </div>
-          </div>
-          <!-- End .row-->
-        </div>
-        <!-- End .container-->
-      </section>
+
 
 <?php include_once "footer.php"; ?>

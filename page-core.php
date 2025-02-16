@@ -43,7 +43,7 @@
               </div>
               <div class="about-block">
                 <div class="block-left">
-                  <p>Equita Group is a representative logistics operator providing full range of service in the sphere of customs clearance transportation worldwide for any cargo</p>
+                  <p>Elexpress Freight Group is a representative logistics operator providing full range of service in the sphere of customs clearance transportation worldwide for any cargo</p>
                   <p>We pride ourselves on providing the best transport and shipping services available allover the world. Our skilled personnel, utilising the latest communications, tracking and combined with experience through integrated supply chain solutions!</p>
                 </div>
               </div>
@@ -86,7 +86,7 @@
                    Individually Assess <br/>Each Plan And Offer <br/>Optimal Solutions!</h2><a class="btn btn--transparent btn--inverse" href="javascript:void(0)">our services</a>
               </div>
               <div class="col-12 col-lg-6 offset-lg-1">
-                <p class="heading-desc">Skilled personnel, utilising communications, tracking processing software, combined with decades of experience! Through an integrated supply chain solutions, Equita drives sustainable competitive advantages to some of Australia's largest companies.</p>
+                <p class="heading-desc">Skilled personnel, utilising communications, tracking processing software, combined with decades of experience! Through an integrated supply chain solutions, Elexpress Freight drives sustainable competitive advantages to some of Turkey's largest companies.</p>
                 <div class="counters-container">
                   <div class="counter counter-2">
                     <div class="counter-icon"> <i class="flaticon-018-packaging"></i></div>

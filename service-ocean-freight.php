@@ -95,11 +95,11 @@
                     <h5>stats &amp; charts </h5>
                     <div class="row">
                       <div class="col-12 col-lg-6">
-                        <p>Our mix of company-owned and contractor assets allows us to retain optimal levels of control whilst expanding our reach to over 96% of towns in Australia. With 40 years of LTL experience, we are now a trusted LTL freight provider for shippers of all sizes and commodity types.</p>
+                        <p>Our mix of company-owned and contractor assets allows us to retain optimal levels of control whilst expanding our reach to over 96% of towns in Turkey. With 40 years of LTL experience, we are now a trusted LTL freight provider for shippers of all sizes and commodity types.</p>
                         <p>
                            Our LTL service extends to all states and territories, and includes multiple per-week services to places many others only serve occasionally, including Darwin, Alice Springs, Newman, Mt. Isa, Launceston and Burnie.</p>
                         <p>
-                           We pride ourselves on providing the best transport and shipping services currently available in Australia. Our skilled personnel, utilising the latest communications, tracking and processing software, combined with decades of experience, ensure all freight is are shipped.</p>
+                           We pride ourselves on providing the best transport and shipping services currently available in Turkey. Our skilled personnel, utilising the latest communications, tracking and processing software, combined with decades of experience, ensure all freight is are shipped.</p>
                       </div>
                       <div class="col-12 col-lg-6"> <img class="entry-chart" src="assets/images/chart/chart-2.png" alt="Chart image"/></div>
                     </div>
@@ -185,7 +185,7 @@
                           <div class="case-img"><img src="assets/images/work/grid/1.jpg" alt="work Item Image"/></div>
                           <div class="case-content">
                             <div class="case-title">
-                              <h4><a href="case-study-single.php">floride chemical factory</a></h4>
+                              <h4><a href="javascript:void(0)">floride chemical factory</a></h4>
                             </div>
                             <div class="case-cat"><a href="javascript:void(0)">analytics</a><a href="javascript:void(0)">optimization</a></div>
                           </div>
@@ -196,7 +196,7 @@
                           <div class="case-img"><img src="assets/images/work/grid/2.jpg" alt="work Item Image"/></div>
                           <div class="case-content">
                             <div class="case-title">
-                              <h4><a href="case-study-single.php">warehouse inventory</a></h4>
+                              <h4><a href="javascript:void(0)">warehouse inventory</a></h4>
                             </div>
                             <div class="case-cat"><a href="javascript:void(0)">warehousing</a><a href="javascript:void(0)">distrbution</a></div>
                           </div>
@@ -207,7 +207,7 @@
                           <div class="case-img"><img src="assets/images/work/grid/3.jpg" alt="work Item Image"/></div>
                           <div class="case-content">
                             <div class="case-title">
-                              <h4><a href="case-study-single.php">Minimize Manufacturing</a></h4>
+                              <h4><a href="javascript:void(0)">Minimize Manufacturing</a></h4>
                             </div>
                             <div class="case-cat"><a href="javascript:void(0)">logistics</a><a href="javascript:void(0)">analytics</a></div>
                           </div>
@@ -218,7 +218,7 @@
                           <div class="case-img"><img src="assets/images/work/grid/4.jpg" alt="work Item Image"/></div>
                           <div class="case-content">
                             <div class="case-title">
-                              <h4><a href="case-study-single.php">floride chemical factory</a></h4>
+                              <h4><a href="javascript:void(0)">floride chemical factory</a></h4>
                             </div>
                             <div class="case-cat"><a href="javascript:void(0)">analytics</a><a href="javascript:void(0)">optimization</a></div>
                           </div>
@@ -229,7 +229,7 @@
                           <div class="case-img"><img src="assets/images/work/grid/5.jpg" alt="work Item Image"/></div>
                           <div class="case-content">
                             <div class="case-title">
-                              <h4><a href="case-study-single.php">warehouse inventory</a></h4>
+                              <h4><a href="javascript:void(0)">warehouse inventory</a></h4>
                             </div>
                             <div class="case-cat"><a href="javascript:void(0)">warehousing</a><a href="javascript:void(0)">distrbution</a></div>
                           </div>
@@ -240,7 +240,7 @@
                           <div class="case-img"><img src="assets/images/work/grid/6.jpg" alt="work Item Image"/></div>
                           <div class="case-content">
                             <div class="case-title">
-                              <h4><a href="case-study-single.php">Minimize Manufacturing</a></h4>
+                              <h4><a href="javascript:void(0)">Minimize Manufacturing</a></h4>
                             </div>
                             <div class="case-cat"><a href="javascript:void(0)">logistics</a><a href="javascript:void(0)">analytics</a></div>
                           </div>
