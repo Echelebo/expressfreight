@@ -75,37 +75,6 @@ extract($data);
 
 
 
-		<!-- Map start -->
-
-	<div class="row">
-		    <div class="col-md-12 py-2">
-		<div class="info-container">
-        <div class="mycard">
-          <img src="deprixa_components/images/barcode.png" />
-          <p id="ip-address-x"><?php echo $tracking; ?></p>
-        </div>
-        <span class="border"></span>
-        <div class="mycard">
-          <h3>Current Location</h3>
-          <p id="location-x"><?php echo $pick_time2 ?></p>
-        </div>
-        <span class="border"></span>
-        <div class="mycard">
-          <h3>Current Status</h3>
-          <p id="timezone-x"><?php echo $status; ?><?php if($status=="On Hold") {echo '<img src="/stop.gif" height="50px" width="50px">';}?></p>
-        </div>
-        <span class="border"></span>
-        <div class="mycard">
-          <h3>Destination</h3>
-          <p id="isp-x"><?php echo $paisdestino ?></p>
-        </div>
-      </div>
-      <div id="map" class="map-container" style="height: 400px; width: 100%;"></div>
-      </div>
-      </div>
-
-
-
 
 
 <!-- map end -->
