@@ -81,7 +81,7 @@ extract($data);
 
 
 
-		<hr style="border: none; height: 0px;">
+
 
 		<div class="row">
 		  <div class="col-md-12 py-2 mt-4">
