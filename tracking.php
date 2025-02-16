@@ -49,7 +49,7 @@
 												<input class="form-control" name="shipping" id="shipping" type="text" placeholder="Example 472304198">
 											</div>
 										</div>
-										<button type="submit" name="button" id="send" class="btn btn-default" style="background-color: #e11d07;"><img src="dashboard/img/tracking.png" alt="x" />&nbsp;Track my parcel</button>
+										<button type="submit" name="button" id="send" class="btn btn-default" style="background-color: #e11d07; color: #ffffff;"><img src="dashboard/img/tracking.png" alt="x" />&nbsp;Track my parcel</button>
 									</div>
 								</form>
 							</section>
