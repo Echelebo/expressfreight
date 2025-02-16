@@ -1,133 +1,110 @@
 <!-- footer area start -->
-    <footer class="footer-area">
-        <div class="footer-top" style="background-image: url(assets/img/footer/bg.png);">
-            <div class="container">
-                <div class="row justify-content-center">
-                    <div class="col-lg-4 col-md-6">
-                        <div class="single-footer-top">
-                            <div class="icon">
-                                <img src="assets/img/icon/map-marker.png" alt="img">
-                            </div>
-                            <div class="details">
-                                <h6>OFFICE ADDRESS:</h6>
-                                <p>413 S Volusia Ave, Orange City</p>
-                                <p>FL 32763, USA</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6">
-                        <div class="single-footer-top">
-                            <div class="icon">
-                                <img src="assets/img/icon/phone.png" alt="img">
-                            </div>
-                            <div class="details">
-                                <h6>CONTACT US:</h6>
-                                <p>support@expressfreights.net</p>
-                                <p>+1 (404) ***-0455</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-lg-4 col-md-6">
-                        <div class="single-footer-top after-none">
-                            <div class="icon">
-                                <img src="assets/img/icon/clock.png" alt="img">
-                            </div>
-                            <div class="details">
-                                <h6>WORKING HOURS:</h6>
-                                <p>Weekdays - Mon-Fri:  8am-21pm</p>
-                                <p>Weekend - Sat & Sun:  Open</p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <div class="container">
+<footer class="footer footer-1">
+        <div class="footer-top">
+          <div class="container">
             <div class="row">
-                <div class="col-xl-4 col-md-6">
-                    <div class="widget widget_about">
-                        <div class="thumb">
-                            <img src="assets/img/logo-white.png" alt="img">
-                        </div>
-                        <div class="details">
-                            <p>We are able to guarantee a very high level of satisfaction for our clients.</p>
-                        </div>
-                    </div>
+              <div class="col-12 col-lg-3 col-xl-4">
+                <div class="footer-logo"><img class="footer-logo" src="assets/images/logo/logo-light.png" alt="logo"/></div>
+              </div>
+              <div class="col-12 col-lg-9 col-xl-8">
+                <div class="widget-newsletter">
+                  <div class="widget-content">
+                    <p>Sign up for industry alerts,<br/>insights from Equita.</p>
+                    <form class="form-newsletter mailchimp">
+                      <input class="form-control" type="email" name="email" placeholder="Your Email Address"/>
+                      <input class="btn btn--primary" type="submit" value="sign up!"/>
+                      <div class="subscribe-alert"></div>
+                    </form>
+                  </div>
                 </div>
-                <div class="col-xl-2 col-md-6">
-                    <div class="widget widget_nav_menu">
-                        <h4 class="widget-title">USEFULL LINKS</h4>
-                        <ul>
-                            <li><a href="about-us.php"><i class="fa fa-arrow-right"></i> About Us</a></li>
-                            <li><a href="services.php"><i class="fa fa-arrow-right"></i> Services</a></li>
-
-                            <li><a href="contact-us.php"><i class="fa fa-arrow-right"></i> Contact Us</a></li>
-                        </ul>
-                    </div>
-                </div>
-                <div class="col-xl-2 col-md-6">
-                    <div class="widget widget_nav_menu">
-                        <h4 class="widget-title">OUR SERVICES</h4>
-                        <ul>
-                            <li><a href="services.php"><i class="fa fa-arrow-right"></i> Air Freight</a></li>
-                            <li><a href="services.php"><i class="fa fa-arrow-right"></i> Ocean Freight</a></li>
-                            <li><a href="services.php"><i class="fa fa-arrow-right"></i> Railway Freight</a></li>
-                            <li><a href="services.php"><i class="fa fa-arrow-right"></i> Warehousing</a></li>
-                            <li><a href="services.php"><i class="fa fa-arrow-right"></i> Distribution</a></li>
-                        </ul>
-                    </div>
-                </div>
-                <div class="col-xl-4 col-md-6">
-                    <div class="widget widget_subscribe">
-                        <h4 class="widget-title">Track Your Shipment</h4>
-                        <p>* Track your shipment to get your shipping location.</p>
-
-                        <form action="tracking-result.php" id="userForm" method="post" class="single-subscribe-inner">
-<div class="single-subscribe-inner">
-<input name="shipping" id="shipping" type="text" placeholder="Example 472304198">
-</div>
-<button type="submit" class="btn btn-base"><i class="fa fa-paper-plane"></i></button>
-</form>
-
-
-                    </div>
-                </div>
+              </div>
             </div>
+          </div>
         </div>
-    </footer>
-    <!-- footer area end -->
-
-    <!-- footer-bottom area start -->
-    <div class="footer-bottom-area">
-        <div class="container">
+        <div class="footer-center">
+          <div class="container">
             <div class="row">
-                <div class="col-lg-6 text-lg-start text-center">
-                    <div class="copyright-area">
-                        <p>© Copyright 2023  By <a href="#">Express Freights</a>, All right reserved.</p>
-                    </div>
+              <div class="col-sm-6 col-md-6 col-lg-3 footer-widget widget-about">
+                <div class="footer-widget-title">
+                  <h5>about</h5>
                 </div>
+                <div class="widget-content">
+                  <p>Equita is a representative logistics operator providing full range of service in the sphere of customs cargo and transportation worldwide.</p>
+                  <!-- Start .module-social-->
+                  <div class="module module-social"><a class="share-facebook" href="javascript:void(0)"><i class="fab fa-facebook-f"> </i></a><a class="share-instagram" href="javascript:void(0)"><i class="fab fa-instagram"></i></a><a class="share-twitter" href="javascript:void(0)"><i class="fab fa-twitter"></i></a></div>
+                  <!-- End .module-social-->
+                </div>
+              </div>
+              <!--  End .col-lg-4 -->
+              <div class="col-sm-6 col-md-6 col-lg-2 offset-lg-2 footer-widget widget-links">
+                <div class="footer-widget-title">
+                  <h5>services</h5>
+                </div>
+                <div class="widget-content">
+                  <ul>
+                    <li><a href="javascript:void(0)">warehouse</a></li>
+                    <li><a href="javascript:void(0)">air freight</a></li>
+                    <li><a href="javascript:void(0)">ocean freight</a></li>
+                    <li><a href="javascript:void(0)">road freight</a></li>
+                    <li><a href="javascript:void(0)">supply chain</a></li>
+                    <li><a href="javascript:void(0)">packaging</a></li>
+                  </ul>
+                </div>
+              </div>
+              <!--  End .col-lg-2-->
+              <div class="col-sm-6 col-md-6 col-lg-2 footer-widget widget-links">
+                <div class="footer-widget-title">
+                  <h5>industries</h5>
+                </div>
+                <div class="widget-content">
+                  <ul>
+                    <li><a href="javascript:void(0)">retail & consumer</a></li>
+                    <li><a href="javascript:void(0)">sciences & healthcare</a></li>
+                    <li><a href="javascript:void(0)">industrial & chemical</a></li>
+                    <li><a href="javascript:void(0)">power generation</a></li>
+                    <li><a href="javascript:void(0)">food & peverage</a></li>
+                    <li><a href="javascript:void(0)">oil & gas</a></li>
+                  </ul>
+                </div>
+              </div>
+              <!--  End .col-lg-2-->
+              <div class="col-sm-6 col-md-6 col-lg-3 footer-widget widget-contact">
+                <div class="footer-widget-title">
+                  <h5>quick contact</h5>
+                </div>
+                <div class="widget-content">
+                  <p>If you have any questions or need help, feel free to contact with our team.</p>
+                  <ul>
+                    <li class="phone"><a href="tel:+01061245741"><i class="fas fa-phone-alt"></i> 01061245741</a></li>
+                    <li class="address"><a href="javascript:void(0)">2307 Beverley Rd Brooklyn, New York 11226 United States.</a></li>
+                  </ul>
+                </div>
+              </div>
+              <!--  End .col-lg-2-->
             </div>
+            <div class="clearfix"></div>
+          </div>
+          <!--  End .container-->
         </div>
+        <!--  End .footer-center-->
+        <div class="footer-bottom">
+          <div class="row">
+            <div class="col-md-12 col-md-12 text--center footer-copyright">
+              <div class="copyright"><span>&copy; Equita, With Love by</span><a href="https://1.envato.market/kP9BV"> Zytheme.com</a></div>
+            </div>
+          </div>
+          <!--  End .row-->
+        </div>
+        <!--  End .footer-bottom-->
+      </footer>
+      <div class="backtop" id="back-to-top"><i class="fas fa-chevron-up"></i></div>
     </div>
-    <!-- footer-bottom area end -->
+    <!--  Footer Scripts==
+    -->
+    <script src="assets/js/vendor/jquery-3.4.1.min.js"></script>
+    <script src="assets/js/vendor.min.js"></script>
+    <script src="assets/js/functions.js"></script>
+  </body>
 
-    <!-- back to top area start -->
-    <div class="back-to-top">
-        <span class="back-top"><i class="fa fa-angle-up"></i></span>
-    </div>
-    <!-- back to top area end -->
-
-
-    <!-- all plugins here -->
-    <script src="assets/js/vendor.js"></script>
-    <!-- main js  -->
-    <script src="assets/js/main.js"></script>
-
-
-    
-
-
-</body>
-
-<!-- Mirrored from www.wowtheme7.com/tf/transpro/home.html by HTTrack Website Copier/3.x [XR&CO'2014], Thu, 02 Feb 2023 00:32:37 GMT -->
+<!-- Mirrored from demo.zytheme.com/equita/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 15 Feb 2025 14:54:33 GMT -->
 </html>
