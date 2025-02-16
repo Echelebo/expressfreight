@@ -66,11 +66,11 @@ isUser();
 	<link rel="stylesheet" href="css/app.css" type="text/css" />
 	<link href="css/style.css" rel="stylesheet" media="all">
 	<link href='http://fonts.googleapis.com/css?family=Open+Sans:400,300,600' rel='stylesheet' type='text/css'>
-  
+
     <!-- Switchery css -->
     <link href="assets/plugins/switchery/switchery.min.css" rel="stylesheet" />
 
-  
+
 	<!-- Plugins css -->
 	<link href="assets/plugins/timepicker/bootstrap-timepicker.min.css" rel="stylesheet">
 	<link href="assets/plugins/mjolnic-bootstrap-colorpicker/css/bootstrap-colorpicker.min.css" rel="stylesheet">
@@ -101,24 +101,24 @@ include("header.php");
 								<div class="alert alert-dismissible alert danger">
 									<button type="button" class="close" data-dismiss="alert"><img src="img/close.png"  height="15" width="15"></button>
 										<center>
-											<?php  	
+											<?php
 											require_once('database.php');
 											$query= mysql_query("SELECT MAX(cid) AS id FROM courier");
-											 if ($row = mysql_fetch_row($query)) 
+											 if ($row = mysql_fetch_row($query))
 											 {
-											  
-											?> 
+
+											?>
 												<a target="_blank" href="print-invoice/invoice-print.php?cid=<?php echo codificar($id = trim($row[0])); ?>">
 												<img src="img/print-invoice.png"  height="76" width="79"></a>
 											<?php } ?>
-										
-											<?php  	
+
+											<?php
 											require_once('database.php');
 											$query= mysql_query("SELECT MAX(cid) AS id FROM courier");
-											 if ($row = mysql_fetch_row($query)) 
+											 if ($row = mysql_fetch_row($query))
 											 {
-											  
-											?> 
+
+											?>
 												<a target="_blank" href="print-invoice/ticket-print.php?cid=<?php echo codificar($id = trim($row[0])); ?>">
 												<img src="img/print_label.png"  height="76" width="79"></a>
 											<?php } ?>
@@ -126,8 +126,8 @@ include("header.php");
 								</div>
 							</div>
 						</div>
-						
-						<?php	if ( isset ( $_GET ['tipo'] ) ) {	?>					
+
+						<?php	if ( isset ( $_GET ['tipo'] ) ) {	?>
 						<div class="row alertaCaja" style="display: none;" >
 							<div class="col-xs-6 col-sm-6 col-md-6" style="float: none; margin: 0 auto;">
 								<div class="alert alert-dismissible alert-<?php echo $_GET ['tipo'] ?>">
@@ -137,10 +137,10 @@ include("header.php");
 							</div>
 						</div>
 						<?php } ?>
-						
+
 						<tr>
 						<h3 class="classic-title"><span><strong><i class="fa fa-truck icon text-default-lter"></i>&nbsp;&nbsp;<?php echo $ADICIONAR; ?></strong></h3>
-							
+
 						<!-- START Checkout form -->
 
 						<form action="settings/add_courier/agregar.php"   method="post" >
@@ -201,7 +201,7 @@ include("header.php");
 													</div>
 													<div class="col-sm-3 form-group">
 														<label class="control-label"><strong><?php echo $L_STATE; ?></strong></label>
-															<input  type="text"  class="form-control" name="state"  id="Shipperstate"  placeholder="<?php echo $L_['placestate']; ?>">																
+															<input  type="text"  class="form-control" name="state"  id="Shipperstate"  placeholder="<?php echo $L_['placestate']; ?>">
 													</div>
 													<div class="col-sm-3 form-group" style="display:none">
 														<label class="control-label"><strong><?php echo $CODIGO; ?></strong></label>
@@ -215,15 +215,8 @@ include("header.php");
 														<label class="control-label"><strong><?php echo $CODIGOPOSTAL; ?></strong></label>
 															<input  type="text" class="form-control" id="Shipperzipcode" name="zipcode"  placeholder="<?php echo $codigopostal; ?>">
 													</div>
-													<div class="col-sm-3 form-group">
-														<label class="control-label"><strong>Latitude</strong></label>
-															<input  type="text" class="form-control" id="Shipperlati" name="lati"  placeholder="Origin Latitude">
-													</div>
-													<div class="col-sm-3 form-group">
-														<label class="control-label"><strong>Longitude</strong></label>
-															<input  type="text" class="form-control" id="Shipperlngi" name="lngi"  placeholder="Origin Longitude">
-													</div>
-													
+
+
 													<div class="col-sm-12 form-group">
 														<p class="error"></p>
 														<label class="control-label"><?php echo $EMAIL; ?><font color="#FF6100"><?php echo $notaemail; ?></font></i></label>
@@ -283,10 +276,10 @@ include("header.php");
 													<label class="control-label"><?php echo $TipodeProducto; ?></label>
 													<select  type="text" class="form-control" name="Shiptype"  >
 														<?php
-															$sql="SELECT name FROM type_shipments  GROUP BY name"; 
-																$query=$db->query($sql); 
-																if($query->num_rows>0){ 
-																	while($row=$query->fetch_array()){ 
+															$sql="SELECT name FROM type_shipments  GROUP BY name";
+																$query=$db->query($sql);
+																if($query->num_rows>0){
+																	while($row=$query->fetch_array()){
 																	echo '<option data-value="'.$row['name'].'">'.utf8_encode($row['name']).'</option>';
 																}
 															}
@@ -297,10 +290,10 @@ include("header.php");
 													<label class="control-label"><i class="fa fa-plane icon text-default-lter"></i>&nbsp;<?php echo $MododelServicio; ?></label>
 												  <select class="form-control" name="Mode">
 													<?php
-														$sql="SELECT name FROM mode_bookings  GROUP BY name"; 
-															$query=$db->query($sql); 
-															if($query->num_rows>0){ 
-																while($row=$query->fetch_array()){ 
+														$sql="SELECT name FROM mode_bookings  GROUP BY name";
+															$query=$db->query($sql);
+															if($query->num_rows>0){
+																while($row=$query->fetch_array()){
 																echo '<option data-value="'.$row['name'].'">'.utf8_encode($row['name']).'</option>';
 															}
 														}
@@ -346,7 +339,7 @@ include("header.php");
 											</div>
 
 											<legend><?php echo $pesovolumetrico; ?>:</legend>
-											
+
 											<!-- Peso Volumetrico -->
 
 											<div class="row">
@@ -379,7 +372,7 @@ include("header.php");
 											<div class="form-group">
 												<label  class="control-label"><?php echo $NOMBREDESTINATARIO; ?><span class="required-field">*</span></label>
 												<input type="text" class="form-control" name="Receivername" id="Receivername" autocomplete="on" list="customers" >
-												
+
 											</div>
 
 
@@ -406,12 +399,12 @@ include("header.php");
 												</div>
 												<div class="col-sm-3 form-group">
 													<label class="control-label"><i class="fa fa-angle-double-right icon text-default-lter"></i>&nbsp;<strong><?php echo $PAISDESTINO; ?></strong></label>
-														<input  type="text"  class="form-control" name="paisdestino" id="Receivercountry1" placeholder="<?php echo $L_['placecountry1']; ?>" >												
+														<input  type="text"  class="form-control" name="paisdestino" id="Receivercountry1" placeholder="<?php echo $L_['placecountry1']; ?>" >
 												</div>
 												<div class="col-sm-3 form-group">
 													<label class="control-label"><strong><?php echo $L_STATE; ?></strong></label>
 													<input type="text" class="form-control" name="state1" id="Receiverstate1" placeholder="<?php echo $L_['placestate']; ?>" >
-														
+
 												</div>
 												<div class="col-sm-3 form-group" style="display:none">
 													<label class="control-label"><strong><?php echo $CODIGO; ?></strong></label>
@@ -420,7 +413,7 @@ include("header.php");
 
 												<div class="col-sm-3 form-group">
 													<label class="control-label"><strong><?php echo $CIUDAD; ?></strong></label>
-													<input type="text" class="form-control" name="city1"  id="Receivercity1" placeholder="<?php echo $L_['placecity']; ?>" >														
+													<input type="text" class="form-control" name="city1"  id="Receivercity1" placeholder="<?php echo $L_['placecity']; ?>" >
 												</div>
 												<div class="col-sm-3 form-group">
 													<label class="control-label"><strong><?php echo $CODIGOPOSTAL; ?></strong></label>
@@ -439,14 +432,14 @@ include("header.php");
 											<!-- Name -->
 											<div class="form-group">
 												<label for="name-card" class="text-success"><strong><?php echo $NUMEROENVIO; ?></strong></label>
-											<?php											
+											<?php
 												$qryEmpresa =  mysql_query("SELECT * FROM company");
 												while($row = mysql_fetch_array($qryEmpresa)) {
 													$pre  = $row["prefijo"];
 													$cons  = $row["cons_no"];
 												}
 												mysql_free_result($qryEmpresa);
-												$pa=mysql_query("SELECT MAX(cons_no)as maximo FROM c_tracking");				
+												$pa=mysql_query("SELECT MAX(cons_no)as maximo FROM c_tracking");
 												if($row=mysql_fetch_array($pa)){
 													if($row['maximo']==NULL){
 														$cons_no=''.$cons.'';
@@ -454,7 +447,7 @@ include("header.php");
 														$cons_no=$row['maximo']+1;
 													}
 												}
-												
+
 											?>
 											<input type="text" class="form-control"  name="cons_no" value="" placeholder="Type 7 digit tracking code">
 											</div>
@@ -476,15 +469,15 @@ include("header.php");
 													<label for="month" class="control-label"><i class="fa fa-sort-amount-asc icon text-default-lter"></i>&nbsp;<?php echo $estado; ?></label>
 													<select class="form-control" name="status" id="status">
 															<?php
-																$sql="SELECT servicemode FROM service_mode  GROUP BY servicemode"; 
-																$query=$db->query($sql); 
-																if($query->num_rows>0){ 
+																$sql="SELECT servicemode FROM service_mode  GROUP BY servicemode";
+																$query=$db->query($sql);
+																if($query->num_rows>0){
 																	while($row=$query->fetch_array()){
 																	echo '<option data-value="'.$row['servicemode'].'">'.utf8_encode($row['servicemode']).'</option>';
-																	
+
 																	}
 																}
-																	
+
 															?>
 													</select>
 												</div>
@@ -499,7 +492,7 @@ include("header.php");
 
 													</fieldset>
 													<div class="col-md-6 text-left">
-														</br></br>														
+														</br></br>
 														<button type="submit"  id="submit" class="btn btn-large btn-success"><?php echo $GUARDARENVIO; ?></button>
 													</div>
 												</div>

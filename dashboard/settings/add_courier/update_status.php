@@ -40,7 +40,7 @@
 	$email = $_POST['email'];
 	$lati = $_POST['lati'];
 	$lngi = $_POST['lngi'];
-	
+
 	#
 	## Obtengo datos de la empresa
 	$qryEmpresa =  mysql_query("SELECT * FROM company");
@@ -49,11 +49,11 @@
 
 		$pre  = $row["prefijo"];
 	}
-	
+
 	$sql = "INSERT INTO courier_track (cid, cons_no, letra, pick_time, status, comments, bk_time, ship_name, phone, lati, lngi, correo, email, user)
 			VALUES ($cid, '$cons_no', '$pre', '$pick_time | $citaddress', '$status', '$comments', NOW(), '$ship_name', '$phone', '$lati', '$lngi', '$correo', '$email', '$user')";
 	dbQuery($sql);
-	
+
 	$sql_1 = "UPDATE courier SET status='$status', lati='$lati', lngi='$lngi', pick_time2 = '$pick_time' WHERE cid = $cid AND cons_no = '$cons_no'";
 	dbQuery($sql_1);
 
@@ -170,7 +170,7 @@
 															<td colspan='4'>&nbsp;</td>
 														</tr>
 														<tr>
-															<td width='120' align='right' valign='top'><img src='https://expressfreights.net/icon-tracking.png' alt='tool' width='139' height='112'></td>
+															<td width='120' align='right' valign='top'><img src='https://elexpressfreights.com/icon-tracking.png' alt='tool' width='139' height='112'></td>
 															<td width='30'></td>
 															<td align='left' valign='middle'>
 																<h3 style='color:#404040;font-size:18px;line-height:24px;font-weight:bold;padding:0;margin:0'>$estadodelenvio</h3>

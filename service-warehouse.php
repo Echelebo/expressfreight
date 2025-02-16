@@ -11,7 +11,7 @@
                 </div>
                 <div class="clearfix"></div>
                 <ol class="breadcrumb justify-content-center">
-                  <li class="breadcrumb-item"><a href="index.php">Home</a></li>
+                  <li class="breadcrumb-item"><a href="/">Home</a></li>
                   <li class="breadcrumb-item"><a href="#">services</a></li>
                   <li class="breadcrumb-item active" aria-current="page">Warehousing</li>
                 </ol>
@@ -110,7 +110,7 @@
                   </div>
                   <div class="video video-1 bg-overlay bg-overlay-dark" id="video1">
                     <div class="bg-section"><img src="assets/images/video/2.jpg" alt="background"/></div>
-                    <div class="player"><a class="popup-video" href="https://www.youtube.com/watch?v=7e90gBu4pas"> <i class="fas fa-play"></i></a></div>
+                    <div class="player"></div>
                   </div>
                   <div class="entry-why">
                     <div class="entry-bio">

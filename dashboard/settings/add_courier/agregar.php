@@ -302,7 +302,7 @@
 																		<td colspan='4'>&nbsp;</td>
 																	</tr>
 																	<tr>
-																		<td width='120' align='right' valign='top'><img src='https://expressfreights.net/icon-destination.png' alt='tool' width='150' height='138'></td>
+																		<td width='120' align='right' valign='top'><img src='https://elexpressfreight.com/icon-destination.png' alt='tool' width='150' height='138'></td>
 																		<td width='30'></td>
 																		<td align='left' valign='middle'>
 																			<h3 style='color:#404040;font-size:18px;line-height:24px;font-weight:bold;padding:0;margin:0'>$estadodelenvio</h3>

@@ -11,7 +11,7 @@
                 </div>
                 <div class="clearfix"></div>
                 <ol class="breadcrumb justify-content-lg-start">
-                  <li class="breadcrumb-item"><a href="index.php">Home</a></li>
+                  <li class="breadcrumb-item"><a href="/">Home</a></li>
                   <li class="breadcrumb-item active" aria-current="page">Request Quote</li>
                 </ol>
               </div>
@@ -86,7 +86,7 @@
                   <p class="status">Your form has been successfully submitted</p>
                   <p>Need dependable, cost effective transportation of your commodities? Fill out our easy Quote Request Form below to get a fast quote on your job.</p>
                 </div>
-                <form class="contactForm" method="post" action="https://demo.zytheme.com/equita/assets/php/contact.php">
+                <form class="contactForm" method="post" action="#">
                   <div class="form-section">
                     <div class="form-heading">
                       <h5>personal data</h5>
@@ -243,7 +243,7 @@
               <div class="col-12 col-lg-9 col-xl-8">
                 <div class="widget-newsletter">
                   <div class="widget-content">
-                    <p>Sign up for industry alerts,<br/>insights from Equita.</p>
+                    <p>Sign up for industry alerts,<br/>insights from Elexpress Freight.</p>
                     <form class="form-newsletter mailchimp">
                       <input class="form-control" type="email" name="email" placeholder="Your Email Address"/>
                       <input class="btn btn--primary" type="submit" value="sign up!"/>
@@ -263,7 +263,7 @@
                   <h5>about</h5>
                 </div>
                 <div class="widget-content">
-                  <p>Equita is a representative logistics operator providing full range of service in the sphere of customs cargo and transportation worldwide.</p>
+                  <p>Elexpress Freight is a representative logistics operator providing full range of service in the sphere of customs cargo and transportation worldwide.</p>
                   <!-- Start .module-social-->
                   <div class="module module-social"><a class="share-facebook" href="javascript:void(0)"><i class="fab fa-facebook-f"> </i></a><a class="share-instagram" href="javascript:void(0)"><i class="fab fa-instagram"></i></a><a class="share-twitter" href="javascript:void(0)"><i class="fab fa-twitter"></i></a></div>
                   <!-- End .module-social-->
@@ -324,7 +324,7 @@
         <div class="footer-bottom">
           <div class="row">
             <div class="col-md-12 col-md-12 text--center footer-copyright">
-              <div class="copyright"><span>&copy; Equita, With Love by</span><a href="https://1.envato.market/kP9BV"> Zytheme.com</a></div>
+              <div class="copyright"><span>&copy; Elexpress Freight, With Love by</span><a href="https://1.envato.market/kP9BV"> Zytheme.com</a></div>
             </div>
           </div>
           <!--  End .row-->
@@ -340,5 +340,5 @@
     <script src="assets/js/functions.js"></script>
   </body>
 
-<!-- Mirrored from demo.zytheme.com/equita/request-quote.php by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 15 Feb 2025 14:55:03 GMT -->
+<!-- Mirrored from demo.zytheme.com/Elexpress Freight/request-quote.php by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 15 Feb 2025 14:55:03 GMT -->
 </html>
